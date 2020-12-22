@@ -8,7 +8,7 @@ Name | Type | Description | Notes
 **skip** | **int** |  | [optional] 
 **order** | [**OneOfPlantFilter1Order**](OneOfPlantFilter1Order.md) |  | [optional] 
 **where** | **dict(str, object)** |  | [optional] 
-**fields** | [**PlantFields**](PlantFields.md) |  | [optional] 
+**fields** | [**OneOfPlantFilter1Fields**](OneOfPlantFilter1Fields.md) |  | [optional] 
 
 [[Back to Model list]](../README.md#documentation-for-models) [[Back to API list]](../README.md#documentation-for-api-endpoints) [[Back to README]](../README.md)
 

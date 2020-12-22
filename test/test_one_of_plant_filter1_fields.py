@@ -15,12 +15,12 @@ from __future__ import absolute_import
 import unittest
 
 import sundial
-from sundial.models.advice_recommendations import AdviceRecommendations  # noqa: E501
+from sundial.models.one_of_plant_filter1_fields import OneOfPlantFilter1Fields  # noqa: E501
 from sundial.rest import ApiException
 
 
-class TestAdviceRecommendations(unittest.TestCase):
-    """AdviceRecommendations unit test stubs"""
+class TestOneOfPlantFilter1Fields(unittest.TestCase):
+    """OneOfPlantFilter1Fields unit test stubs"""
 
     def setUp(self):
         pass
@@ -28,10 +28,10 @@ class TestAdviceRecommendations(unittest.TestCase):
     def tearDown(self):
         pass
 
-    def testAdviceRecommendations(self):
-        """Test AdviceRecommendations"""
+    def testOneOfPlantFilter1Fields(self):
+        """Test OneOfPlantFilter1Fields"""
         # FIXME: construct object with mandatory attributes with example values
-        # model = sundial.models.advice_recommendations.AdviceRecommendations()  # noqa: E501
+        # model = sundial.models.one_of_plant_filter1_fields.OneOfPlantFilter1Fields()  # noqa: E501
         pass
 
 
